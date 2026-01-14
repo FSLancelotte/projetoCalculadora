@@ -1,0 +1,12 @@
+Registro do dia 13/01/2026 17:59:47
+
+Por favor insira um número ou digite SAIR
+Digite o primeiro número: 
+Saindo da execução
+
+Registro do dia 13/01/2026 18:02:33
+
+Por favor insira um número ou digite SAIR
+Digite o primeiro número: 
+Saindo da execução
+
