@@ -3,6 +3,8 @@ Este repositório tem como objetivo o compartilhamento do Projeto de calculadora
 
 Este projeto consiste em um código python que define as funções da calculadora e um código shell script para executar a calculadora e registrar os prints em um outro arquivo de texto.
 
+Execute o arquivo "script_calculadora.sh" através de um terminal linux.
+
 ## Código da calculadora:
 
 - A calculadora foi feita para ser utilizada através de um terminal que apresenta e recebe informações;
